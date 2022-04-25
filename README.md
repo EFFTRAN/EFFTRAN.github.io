@@ -1,8 +1,6 @@
-# EFFTRAN
-
 ## Efficiency transfer and true coincidence summing corrections for gamma-ray spectrometry
 
-The code is written in Fortran 77 and runs on the Windows platform through a GUI written in Visual Basic. EFFTRAN is available free of charge. To get a copy, please write to tim.vidmar@sckcen.be. 
+**EFFTRAN** is written in Fortran 77 and runs on the Windows platform through a GUI written in Visual Basic. It is available free of charge. To get your copy, please write to tim.vidmar@sckcen.be. 
 
 The user is expected to be familiar with the efficiency transfer method in gamma-ray spectrometry and the application of true coincidence summing corrections. 
 
