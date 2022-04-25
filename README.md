@@ -1,4 +1,4 @@
-# EFFTRAN.github.io
+# EFFTRAN
 
 ## Efficiency transfer and true coincidence summing corrections for gamma-ray spectrometry
 
