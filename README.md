@@ -1,5 +1,4 @@
-### Efficiency transfer and true coincidence summing corrections 
-### for environmental gamma-ray spectrometry
+### Efficiency transfer and true coincidence summing corrections for environmental gamma-ray spectrometry
 
 **EFFTRAN** is written in Fortran 77 and runs on the Windows platform through a GUI written in Visual Basic. It is available free of charge. To get your copy, please write to tim.vidmar@sckcen.be. 
 
