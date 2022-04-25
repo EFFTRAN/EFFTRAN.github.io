@@ -1,6 +1,6 @@
 # EFFTRAN.github.io
 
-## ** Efficiency transfer and true coincidence summing corrections for gamma-ray spectrometry **
+## Efficiency transfer and true coincidence summing corrections for gamma-ray spectrometry
 
 The code is written in Fortran 77 and runs on the Windows platform through a GUI written in Visual Basic. EFFTRAN is available free of charge. To get a copy, please write to tim.vidmar@sckcen.be. 
 
@@ -14,7 +14,7 @@ When installing a new version of EFFTRAN, install it cleanly into a new director
 
 EFFTRAN uses and embedded copy of the XCOM package (Berger and Hubbel, 1987) as a source of the cross-section data on photon interactions. The KORDATEN database (Arnold and Sima, 2004) serves as a source of nuclear decay data.
 
-Literature
+### Literature
 
 Andreev, D.S., Erokhina, K.I., Zvonov, V.S., Lemberg, I.Kh. 1972. Consideration of cascade transitions in determining the absolute yield of gamma rays. Instruments and Experimental Techniques 15, 1358 (English translation).
 
