@@ -1,4 +1,5 @@
-## Efficiency transfer and true coincidence summing corrections for gamma-ray spectrometry
+### Efficiency transfer and true coincidence summing corrections 
+### for environmental gamma-ray spectrometry
 
 **EFFTRAN** is written in Fortran 77 and runs on the Windows platform through a GUI written in Visual Basic. It is available free of charge. To get your copy, please write to tim.vidmar@sckcen.be. 
 
@@ -16,9 +17,9 @@ EFFTRAN uses and embedded copy of the XCOM package (Berger and Hubbel, 1987) as 
 
 Andreev, D.S., Erokhina, K.I., Zvonov, V.S., Lemberg, I.Kh. 1972. Consideration of cascade transitions in determining the absolute yield of gamma rays. Instruments and Experimental Techniques 15, 1358 (English translation).
 
-Arnold, D. and Sima, O., 2004. Application of GESPECOR software for the calculation of coincidence summing effects in special cases. Applied Radiation and Isotopes 60, 167–172.
+Arnold, D., Sima, O., 2004. Application of GESPECOR software for the calculation of coincidence summing effects in special cases. Applied Radiation and Isotopes 60, 167–172.
 
-Berger, M.J. and Hubbell, J.H., 1987. XCOM: Photon Cross Sections on a Personal Computer. NBSIR 87-3597, National Bureau of Standards (former name of NIST), Gaithersburg, MD.
+Berger, M.J., Hubbell, J.H., 1987. XCOM: Photon Cross Sections on a Personal Computer. NBSIR 87-3597, National Bureau of Standards (former name of NIST), Gaithersburg, MD.
 
 Blauuw, M., Gelsema, S.J. 2003. Cascade summing in gamma-ray spectrometry in Marinelli-beaker geometries: the third efficiency curve. Nuclear Instruments and Methods A 505, 311–315.
 
@@ -30,7 +31,6 @@ Vidmar, T., Korun, M. 2006. Calculation of "LS-curves" for coincidence summing c
 
 Vidmar, T., Kanisch G., Vidmar, G. 2011. Calculation of true coincidence summing corrections for extended sources with EFFTRAN. Applied Radiation and Isotopes 69, 908-911.
 
-T. Vidmar, M. Capogni, M. Hult, S. Hurtado, J. Kastlander, G. Lutter, M.-C. Lépy, J. Martinkovič, H. Ramebäck, O. Sima, F. Tzika, G. Vidmar. 2014. Equivalence of computer codes for calculation of coincidence summing correction factors. Applied Radiation and Isotopes 87, 336-341.
+Vidmar, T., Capogni, M., Hult, M., Hurtado, S., Kastlander, J., Lutter, G., Lépy, M-C., Martinkovič, J., Ramebäck, H., Sima, O., Tzika, F., Vidmar, G. 2014. Equivalence of computer codes for calculation of coincidence summing correction factors. Applied Radiation and Isotopes 87, 336-341.
 
-T. Vidmar, A. Camp, S. Hurtado, H. Jäderström, J. Kastlander, M-C. Lépy, G. Lutter, H. Ramebäck, O. Sima, A. Vargas. 2016. Equivalence of computer codes for calculation of coincidence summing correction factors – Part II. Applied Radiation and Isotopes 109, 482-486.
-
+Vidmar, T., Camp, A., Hurtado, S., Jäderström, H., Kastlander, J., Lépy, M-C., Lutter, G., Ramebäck, H., Sima, O., Vargas, A. 2016. Equivalence of computer codes for calculation of coincidence summing correction factors – Part II. Applied Radiation and Isotopes 109, 482-486.
