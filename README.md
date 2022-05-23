@@ -7,7 +7,7 @@ The user is expected to be familiar with the efficiency transfer method in gamma
 
 EFFTRAN application is limited to cylindrical detectors and samples and to axially symmetric setups. HPGe, NaI, and LaBr3 detectors are supported. Gamma-gamma and gamma-X coincidences are taken into account and the correction factors for gamma rays are provided.
 
-Import and export of efficiencies to GENIE calibration files (.CAL) and GammaVision efficiency files (.EFT) is possible, as well as import and export of true coincidence summing correction factors to GENIE nuclide libraries (.NLB) and certificate files (.CFT), and to GammaVision nuclide libraries (.Lib).
+Import and export of efficiencies to GENIE calibration files (.CAL) and GammaVision efficiency files (.EFT) is possible, as well as export of true coincidence summing correction factors to GENIE nuclide libraries (.NLB) and certificate files (.CFT), and to GammaVision nuclide libraries (.Lib).
 
 When installing a new version of EFFTRAN, install it cleanly into a new directory and not over an existing version. Then redefine all the materials and all the detector and source models that you are using. We apologies for this inconvenience, but there is no other way of guaranteeing that the new version would work correctly.
 
