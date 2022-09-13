@@ -1,17 +1,19 @@
 ### Efficiency transfer and true coincidence summing corrections for environmental gamma-ray spectrometry
 
 ---
-**EFFTRAN** is coded in Fortran 77 and runs on the Windows platform through a GUI written in Visual Basic. It is available free of charge. To get your copy please write to *tim.vidmar@sckcen.be*. 
+**EFFTRAN** is coded in Fortran 77 and runs on the Windows platform through a GUI written in Visual Basic. It is available free of charge.
 
 The user is expected to be familiar with the efficiency transfer method in gamma-ray spectrometry and the application of true coincidence summing corrections. 
 
-EFFTRAN application is limited to cylindrical detectors and samples and to axially symmetric setups. HPGe, NaI, and LaBr3 detectors are supported. Gamma-gamma and gamma-X coincidences are taken into account and the correction factors for gamma rays are provided.
+EFFTRAN application is limited to coaxial and planar detectors and to pillbox samples. HPGe, NaI, and LaBr3 detectors are supported. Gamma-gamma and gamma-X coincidences are taken into account and the correction factors for gamma rays are provided.
 
-Import and export of efficiencies to GENIE calibration files (.CAL) and GammaVision efficiency files (.EFT) is possible, as well as export of true coincidence summing correction factors to GENIE nuclide libraries (.NLB) and certificate files (.CFT), and to GammaVision nuclide libraries (.Lib).
+Import and export of efficiencies to Genie2k calibration files (.CAL) and GammaVision efficiency files (.EFT) is supported, as well as export of true coincidence summing correction factors to Genie2k nuclide libraries (.NLB), GENIE certificate files (.CFT), and GammaVision nuclide libraries (.Lib).
 
 When installing a new version of EFFTRAN, install it cleanly into a new directory and not over an existing version. Then redefine all the materials and all the detector and source models that you are using. We apologies for this inconvenience, but there is no other way of guaranteeing that the new version would work correctly.
 
 EFFTRAN uses and embedded copy of the XCOM package (Berger and Hubbel, 1987) as a source of the cross-section data on photon interactions. The KORDATEN database (Arnold and Sima, 2004) serves as a source of nuclear decay data.
+
+To get your copy of EFFTRAN follow [this link](https://efftran.github.io/EFFTRAN.zip). 
 
 ### Literature
 
