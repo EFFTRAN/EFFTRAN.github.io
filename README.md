@@ -5,7 +5,9 @@
 
 The user is expected to be familiar with the efficiency transfer method in gamma-ray spectrometry and the application of true coincidence summing corrections. 
 
-EFFTRAN application is limited to coaxial and planar detectors and to pillbox samples. HPGe, NaI, and LaBr3 detectors are supported. Gamma-gamma and gamma-X coincidences are taken into account and the correction factors for gamma rays are provided.
+EFFTRAN application is limited to coaxial and planar detectors and to pillbox samples. A separate version called MEFFTRAN exists for Marinelli beaker sources. 
+
+HPGe, NaI, and LaBr3 detectors are supported. Gamma-gamma and gamma-X coincidences are taken into account and the correction factors for gamma rays are provided.
 
 Import and export of efficiencies to Genie2k calibration files (.CAL) and GammaVision efficiency files (.EFT) is possible, as well as export of true coincidence summing correction factors to Genie2k nuclide libraries (.NLB), Genie2k certificate files (.CFT), and GammaVision nuclide libraries (.Lib).
 
@@ -13,7 +15,7 @@ When installing a new version of EFFTRAN, install it cleanly into a new director
 
 EFFTRAN uses and embedded copy of the XCOM package (Berger and Hubbel, 1987) as a source of the cross-section data on photon interactions. The KORDATEN database (Arnold and Sima, 2004) serves as a source of nuclear decay data.
 
-To get your copy of EFFTRAN follow [this link](https://efftran.github.io/EFFTRAN.zip). 
+To get your copy of EFFTRAN follow this link. MEFFTRAN can be downloaded from ... 
 
 ### Literature
 
