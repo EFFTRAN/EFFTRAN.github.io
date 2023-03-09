@@ -15,7 +15,7 @@ Install a new version of EFFTRAN cleanly into a new directory and not over an ex
 
 EFFTRAN uses and embedded copy of the XCOM package (Berger and Hubbel, 1987) as a source of the cross-section data on photon interactions. The KORDATEN database (Arnold and Sima, 2004) serves as a source of nuclear decay data.
 
-The latest version of EFFTRAN is available for download from https://efftran.github.io/EFFTRAN_4.7.1.zip. Click here to download the latest version of MEFFTRAN. 
+The latest version of EFFTRAN is available for download from (https://efftran.github.io/EFFTRAN_4.7.1.zip). Click here to download the latest version of MEFFTRAN. 
 
 ### Literature
 
