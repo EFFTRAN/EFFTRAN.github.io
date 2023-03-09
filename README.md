@@ -5,7 +5,7 @@
 
 The user is expected to be familiar with the efficiency transfer method in gamma-ray spectrometry and the application of true coincidence summing corrections. 
 
-EFFTRAN application is limited to coaxial and planar detectors and to pillbox samples. A separate version called MEFFTRAN exists for Marinelli beaker sources. 
+EFFTRAN application is limited to coaxial and planar detectors and to cylindrical samples. A separate version called MEFFTRAN exists for Marinelli beaker sources. 
 
 HPGe, NaI, and LaBr3 detectors are supported. Gamma-gamma and gamma-X coincidences are taken into account and the correction factors for gamma rays are provided.
 
