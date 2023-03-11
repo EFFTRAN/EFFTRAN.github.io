@@ -5,7 +5,7 @@
 
 The user is expected to be familiar with the efficiency transfer method in gamma-ray spectrometry and the application of true coincidence summing corrections. 
 
-EFFTRAN application is limited to coaxial and planar detectors and to cylindrical samples. A separate version called MEFFTRAN exists for Marinelli beaker sources. 
+EFFTRAN application is limited to coaxial and planar detectors and to cylindrical samples.
 
 HPGe, NaI, and LaBr3 detectors are supported. Gamma-gamma and gamma-X coincidences are taken into account and the correction factors for gamma rays are provided.
 
@@ -15,7 +15,7 @@ Install a new version of EFFTRAN cleanly into a new directory and not over an ex
 
 EFFTRAN uses and embedded copy of the XCOM package (Berger and Hubbel, 1987) as a source of the cross-section data on photon interactions. The KORDATEN database (Arnold and Sima, 2004) serves as a source of nuclear decay data.
 
-To get a copy of EFFTRAN follow [this link](https://efftran.github.io/EFFTRAN_4.7.1.zip). Click [here](https://efftran.github.io/MEFFTRAN_1.5.1.zip) to download the latest version of MEFFTRAN. 
+To download a copy of the latest version of EFFTRAN follow [this link](https://efftran.github.io/EFFTRAN_4.7.1.zip).
 
 ### Literature
 
