@@ -1,7 +1,7 @@
 ### Efficiency transfer and true coincidence summing corrections for environmental gamma-ray spectrometry
 
 ---
-**EFFTRAN** is coded in Fortran 77 and runs on the Windows platform through an MS Excel interface written in Visual Basic for Applications (VBA). It is available free of charge.
+**EFFTRAN** is coded in Fortran 77 and runs on the Windows platform through an MS Excel interface written in Visual Basic for Applications (VBA). It is available free of charge and comes complete with the source code.
 
 The user is expected to be familiar with the efficiency transfer method in gamma-ray spectrometry and the application of true coincidence summing corrections. 
 
