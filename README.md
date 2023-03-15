@@ -13,9 +13,9 @@ Efficiencies can be read from and written to Genie2k calibration files (.CAL) an
 
 Install a new version of EFFTRAN cleanly into a new directory and not over an existing version. Then redefine all the materials and all the detector and source models that you are using. We apologise for this inconvenience, but there is no other way of guaranteeing that the new version would work correctly.
 
-EFFTRAN uses and embedded copy of the XCOM package (Berger and Hubbel, 1987) as a source of the cross-section data on photon interactions. The KORDATEN database (Arnold and Sima, 2004) serves as a source of nuclear decay data.
+EFFTRAN uses an embedded copy of the XCOM package (Berger and Hubbel, 1987) as a source of the cross-section data on photon interactions. The KORDATEN database (Arnold and Sima, 2004) serves as a source of nuclear decay data.
 
-To download a copy of the latest version of EFFTRAN follow [this link](https://efftran.github.io/EFFTRAN_4.7.1.zip).
+To download a copy of the latest version of EFFTRAN (currently 4.7.1) follow [this link](https://efftran.github.io/EFFTRAN_4.7.1.zip).
 
 ### Literature
 
