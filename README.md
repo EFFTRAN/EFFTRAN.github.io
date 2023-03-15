@@ -38,3 +38,5 @@ Vidmar, T., Kanisch G., Vidmar, G. 2011. Calculation of true coincidence summing
 Vidmar, T., Capogni, M., Hult, M., Hurtado, S., Kastlander, J., Lutter, G., Lépy, M-C., Martinkovič, J., Ramebäck, H., Sima, O., Tzika, F., Vidmar, G. 2014. Equivalence of computer codes for calculation of coincidence summing correction factors. Applied Radiation and Isotopes 87, 336-341.
 
 Vidmar, T., Camp, A., Hurtado, S., Jäderström, H., Kastlander, J., Lépy, M-C., Lutter, G., Ramebäck, H., Sima, O., Vargas, A. 2016. Equivalence of computer codes for calculation of coincidence summing correction factors – Part II. Applied Radiation and Isotopes 109, 482-486.
+
+Jonsson, S., Vidmar, T, Ramebäck, H. Implementation of calculation codes in gamma spectrometry for correction of systematic effects. 2015. Journal of Radioanalytical and Nuclear Chemistry 303, 1727-1736. 
