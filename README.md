@@ -39,6 +39,6 @@ Vidmar, T., Capogni, M., Hult, M., Hurtado, S., Kastlander, J., Lutter, G., Lép
 
 Vidmar, T., Camp, A., Hurtado, S., Jäderström, H., Kastlander, J., Lépy, M-C., Lutter, G., Ramebäck, H., Sima, O., Vargas, A. 2016. Equivalence of computer codes for calculation of coincidence summing correction factors – Part II. Applied Radiation and Isotopes 109, 482-486.
 
-Jonsson, S., Vidmar, T, Ramebäck, H. Implementation of calculation codes in gamma spectrometry for correction of23, 465-472.ffects. 2015. Journal of Radioanalytical and Nuclear Chemistry 303, 1727-1736.Experimental validation of corrections factors for γ–γ and γ–X coincidence summing of 133Ba, 152Eu, and 125Sb in volume sources
+Jonsson, S., Vidmar, T, Ramebäck, H. Implementation of calculation codes in gamma spectrometry for correction of systematic effects. 2015. Journal of Radioanalytical and Nuclear Chemistry 303, 1727-1736.
 
-Jonsson, S., Kastlander, J., Vidmar, T, Ramebäck, H. 2020. Experimental validation of corrections factors for γ–γ and γ–X coincidence summing of 133Ba, 152Eu, and 125Sb in volume sources.  Journal of Radioanalytical and Nuclear Chemistry 323, 465-472.
+Jonsson, S., Kastlander, J., Vidmar, T, Ramebäck, H. 2020. Experimental validation of corrections factors for γ–γ and γ–X coincidence summing of 133Ba, 152Eu, and 125Sb in volume sources. Journal of Radioanalytical and Nuclear Chemistry 323, 465-472.
