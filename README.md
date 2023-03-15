@@ -41,4 +41,4 @@ Vidmar, T., Camp, A., Hurtado, S., Jäderström, H., Kastlander, J., Lépy, M-C.
 
 Jonsson, S., Vidmar, T, Ramebäck, H. Implementation of calculation codes in gamma spectrometry for corrections of systematic effects. 2015. Journal of Radioanalytical and Nuclear Chemistry 303, 1727-1736.
 
-Jonsson, S., Kastlander, J., Vidmar, T, Ramebäck, H. 2020. Experimental validation of corrections factors for γ–γ and γ–X coincidence summing of Ba-133, EU-152, and Sb-125 in volume sources. Journal of Radioanalytical and Nuclear Chemistry 323, 465-472.
+Jonsson, S., Kastlander, J., Vidmar, T, Ramebäck, H. 2020. Experimental validation of corrections factors for γ–γ and γ–X coincidence summing of Ba-133, Eu-152, and Sb-125 in volume sources. Journal of Radioanalytical and Nuclear Chemistry 323, 465-472.
