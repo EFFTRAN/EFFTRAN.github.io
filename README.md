@@ -11,7 +11,7 @@ HPGe, NaI, LaBr3, CZT and CLYC detectors are supported. Gamma-gamma and gamma-X 
 
 Efficiencies can be read from and written to Genie2k calibration files (.CAL) and GammaVision efficiency files (.EFT), and true coincidence summing correction factors can be exported to Genie2k nuclide libraries (.NLB), Genie2k certificate files (.CFT), and GammaVision nuclide libraries (.Lib).
 
-A new version of EFFTRAN should be installed cleanly into a new directory and not over an existing version and then all the materials and all the detector and source models in use should be redefined. We apologise for this inconvenience, but there is no other way of guaranteeing that the new version would work correctly.
+A new version of EFFTRAN should always be installed cleanly into a new directory and not over an existing version and then all the materials and all the detector and source models in use should be redefined. We apologise for this inconvenience, but there is no other way of guaranteeing that the new version would work correctly.
 
 EFFTRAN uses an embedded copy of the XCOM package (Berger and Hubbel, 1987) as a source of the cross-section data on photon interactions. The KORDATEN database (Arnold and Sima, 2004) serves as a source of nuclear decay data.
 
