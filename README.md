@@ -15,7 +15,7 @@ A new version of EFFTRAN should always be installed into a new directory and not
 
 EFFTRAN uses an embedded copy of the XCOM package (Berger and Hubbel, 1987) as a source of the cross-section data on photon interactions. The KORDATEN database (Arnold and Sima, 2004) serves as a source of nuclear decay data.
 
-**To download** the latest version of EFFTRAN (currently 5.0) follow [**this link**](https://efftran.github.io/EFFTRAN_5.0.zip). Click [**here**](https://efftran.github.io/MEFFTRAN_1.9.zip) for a copy of MEFFTRAN (currently version 1.9).
+**To download** the latest version of EFFTRAN (currently 5.1) follow [**this link**](https://efftran.github.io/EFFTRAN_5.1.zip). Click [**here**](https://efftran.github.io/MEFFTRAN_2.0.zip) for a copy of MEFFTRAN (currently version 2.0).
 
 [**EffSuite**]( https://github.com/luttegu/EffSuite) offers a modern, Python-based GUI to the EFFTRAN routines (no more Excel needed). It focuses on the interaction with Genie2k and provides the well-type detector geometry, in addition to the cylindrical one. Check it out! 
 
